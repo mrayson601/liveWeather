@@ -1,0 +1,85 @@
+#masterBox {
+  background-image: url(http://res.cloudinary.com/dydouarz2/image/upload/v1478320476/the-pleiades-star-cluster-11637_1920_o9ik1l.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  width: 400px;
+  border-style: solid;
+  border-color: white;
+  border-width: 10px;
+  padding: 0px;
+  margin: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+  font-family: Amaranth;
+  border-radius: 900px;
+  text-align: center;
+  font-family: 'Roboto';
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
+
+#holder {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#tempDiv {
+  background: #446CB3;
+  cursor: pointer;
+  border-radius: 90px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+#title {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 5px;
+  background: #446CB3;
+  border-radius: 90px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#city {
+  background: #446CB3;
+  border-radius: 90px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+#condition {
+  background: #446CB3;
+  border-radius: 90px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+#icon {
+  background: #446CB3;
+  border-radius: 90px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+body {
+  background: black !important;
+}
+
+.spot{
+    background: #446CB3;
+  border-radius: 90px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 20px;
+  height: 20px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
